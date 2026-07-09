@@ -1,2 +1,2 @@
 # project-2
-Smart Loan Approval System
+#Smart Loan Approval System
